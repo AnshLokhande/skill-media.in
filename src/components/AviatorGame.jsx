@@ -301,7 +301,7 @@ export default function AviatorGame() {
 
         <header className="flex items-center justify-between p-4 bg-[#1a1d29] border-b border-[#3a3f50]">
           <div className="flex items-center gap-2">
-            <div className="text-[#ff4d4d] font-bold text-xl">Aviator</div>
+            <div className="text-[#ff4d4d] font-bold text-xl">Skillsmedia</div>
             <button className="px-2 py-1 text-xs border border-[#3a3f50] rounded-md flex items-center gap-1 hover:bg-[#2c3140]">
               <HelpCircle className="w-3 h-3" />
               How to play?

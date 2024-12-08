@@ -8,7 +8,7 @@ const LandingPage = () => {
     <div className="min-h-screen bg-gradient-to-b from-customDark to-[#1F2937] text-white">
       {/* Header */}
       <header className="bg-black/10 backdrop-blur-md fixed top-0 left-0 right-0 z-50 flex justify-between items-center py-4 px-6 border-b-2 border-white/20 shadow-lg">
-        <div className="text-2xl font-bold text-yellow-300">Battery Bet</div>
+        <div className="text-2xl font-bold text-yellow-300">Skillsmedia</div>
         
         <div className="flex space-x-4">
           <button className="bg-yellow-500 text-black px-6 py-2 rounded-lg font-semibold hover:bg-[#E69308]  transition duration-300">Log In</button>
@@ -62,7 +62,7 @@ const LandingPage = () => {
       <section className="py-12 px-6 bg-gray-900">
   <div className="container mx-auto">
     <h2 className="text-3xl font-bold mb-8 text-center text-yellow-400">
-      Why Choose Battery Bet?
+      Why Choose Skillsmedia
     </h2>
     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
       {/* Card 1 */}
@@ -105,7 +105,7 @@ const LandingPage = () => {
       {/* Footer */}
       <footer className="bg-[#FFC107] text-black py-8 px-6 border-t border-blue-700">
         <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
-          <div className="text-lg font-bold mb-4 md:mb-0">Battery Bet &copy; 2023</div>
+          <div className="text-lg font-bold mb-4 md:mb-0">Skillsmedias &copy; 2023</div>
           <nav className="flex gap-6">
             <a href="#" className="hover:text-yellow-300 transition duration-300">About Us</a>
             <a href="#" className="hover:text-yellow-300 transition duration-300">Terms of Service</a>
